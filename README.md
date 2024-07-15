@@ -1,7 +1,7 @@
 # Phase 4 Code Challenge: Pizza Restaurants (Updated)
 
 In this code challenge, you'll be working with a Pizza Restaurant domain.
-
+### the recording is here (https://www.loom.com/share/b09fd630468542a0a73ab1c0565099aa?sid=bc798f76-05ec-4f3c-ada9-1b8a9d9d4347)
 In this repo:
 
 - There is a Flask application with some features built out.
